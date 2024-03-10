@@ -1,3 +1,3 @@
 Simple Calculator
 
-Live Url:[simpleCalculator](https://anlperr.github.io/Simple-Calculator/)
+Live URL: [SimpleCalculator](https://anlperr.github.io/Simple-Calculator/)
